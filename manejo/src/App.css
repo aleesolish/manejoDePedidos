@@ -1,0 +1,64 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Container {
+  width: 100%;
+}
+
+#left {
+  background: lightgreen;
+  float: left;
+}
+
+#right {
+  background: lightyellow;
+  float: right;
+}
+
+.Container {
+  background: grey;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#left div,
+#right div, .salida div, .local div, .proceso div, .exito div, .fracaso div {
+  border: 1px pink solid;
+  padding: 10px;
+  background: coral;
+  color: white;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.gu-mirror {
+  background: purple;
+  cursor: pointer;
+}
+
+.salida{
+  width: 20%;
+  float: left;
+  height: 40px;
+
+}
+
+.local{
+  width: 20%;
+  float: left;
+}
+
+.proceso{
+  width: 20%;
+  float: left;
+}
+.exito{
+  width: 20%;
+  float: left;
+}
+.fracaso{
+  width: 20%;
+  float: left;
+}
