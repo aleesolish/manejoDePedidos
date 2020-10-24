@@ -42,23 +42,38 @@
   width: 20%;
   float: left;
   height: 40px;
+  border: 2px;
+  font-size: 10px;
+  font-weight: bold;
 
 }
 
 .local{
   width: 20%;
   float: left;
+  border: 2px;
+  font-size: 10px;
+  font-weight: bold;
 }
 
 .proceso{
   width: 20%;
   float: left;
+  border: 2px;
+  font-size: 10px;
+  font-weight: bold;
 }
 .exito{
   width: 20%;
   float: left;
+  border: 2px;
+  font-size: 10px;
+  font-weight: bold;
 }
 .fracaso{
   width: 20%;
   float: left;
+  border: 2px;
+  font-size: 10px;
+  font-weight: bold;
 }
